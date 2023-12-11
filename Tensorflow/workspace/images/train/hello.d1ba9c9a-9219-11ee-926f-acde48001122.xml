@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello.d1ba9c9a-9219-11ee-926f-acde48001122.jpg</filename>
+	<path>/Users/ahornachowdhury/Documents/projects/ASL_detection/Tensorflow/workspace/images/collectedimages/hello.d1ba9c9a-9219-11ee-926f-acde48001122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>611</xmin>
+			<ymin>106</ymin>
+			<xmax>881</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

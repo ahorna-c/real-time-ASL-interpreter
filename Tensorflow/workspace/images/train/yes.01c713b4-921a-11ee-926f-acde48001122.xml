@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>yes.01c713b4-921a-11ee-926f-acde48001122.jpg</filename>
+	<path>/Users/ahornachowdhury/Documents/projects/ASL_detection/Tensorflow/workspace/images/collectedimages/yes.01c713b4-921a-11ee-926f-acde48001122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>775</xmin>
+			<ymin>86</ymin>
+			<xmax>958</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>
