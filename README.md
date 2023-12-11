@@ -1,2 +1,2 @@
 # real-time-ASL-interpreter
-Real Time American Sign Language (ASL) Detection Model developed using Python, OpenCV and Tensorflow
+Using Python, OpenCV and TensorFlow to create an unsupervised Real-Time Object Detection Model to identify and translate American Sign Language (ASL) signs in real-time. 
